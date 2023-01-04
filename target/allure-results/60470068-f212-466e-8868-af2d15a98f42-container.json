@@ -1,0 +1,1 @@
+{"uuid":"60470068-f212-466e-8868-af2d15a98f42","name":"DeleteUser_UserExists_ReturnOK()","children":["a9f348ca-035e-45f2-aebe-fd3f4fb25915"],"befores":[{"name":"setRequest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1672857668383,"stop":1672857668385}],"afters":[],"start":1672857668380,"stop":1672857668953}
